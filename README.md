@@ -1,1 +1,1 @@
-My wibsite can be found here:https://groupc-yinziyi.github.io/
+My website can be found here:https://groupc-yinziyi.github.io/
